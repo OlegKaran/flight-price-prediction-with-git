@@ -1,0 +1,1374 @@
+{
+    "AER-AMS": {
+        "distance": 2769,
+        "duration": 570
+    },
+    "AER-AYT": {
+        "distance": 1063,
+        "duration": 120
+    },
+    "AER-BCN": {
+        "distance": 3092,
+        "duration": 1105
+    },
+    "AER-BEG": {
+        "distance": 1570,
+        "duration": 170
+    },
+    "AER-BJS": {
+        "distance": 6134,
+        "duration": 835
+    },
+    "AER-BKK": {
+        "distance": 6593,
+        "duration": 720
+    },
+    "AER-DOH": {
+        "distance": 2280,
+        "duration": 400
+    },
+    "AER-DXB": {
+        "distance": 2456,
+        "duration": 215
+    },
+    "AER-FRA": {
+        "distance": 2479,
+        "duration": 570
+    },
+    "AER-HKT": {
+        "distance": 6861,
+        "duration": 735
+    },
+    "AER-IST": {
+        "distance": 919,
+        "duration": 95
+    },
+    "AER-LED": {
+        "distance": 1931,
+        "duration": 245
+    },
+    "AER-LON": {
+        "distance": 3072,
+        "duration": 515
+    },
+    "AER-MOW": {
+        "distance": 1338,
+        "duration": 190
+    },
+    "AER-PAR": {
+        "distance": 2909,
+        "duration": 565
+    },
+    "AER-SHJ": {
+        "distance": 2461,
+        "duration": 215
+    },
+    "AER-TBS": {
+        "distance": 455,
+        "duration": 80
+    },
+    "AER-TYO": {
+        "distance": 8097,
+        "duration": 1060
+    },
+    "AMS-AER": {
+        "distance": 2769,
+        "duration": 630
+    },
+    "AMS-AYT": {
+        "distance": 2654,
+        "duration": 230
+    },
+    "AMS-BCN": {
+        "distance": 1240,
+        "duration": 130
+    },
+    "AMS-BEG": {
+        "distance": 1409,
+        "duration": 135
+    },
+    "AMS-BJS": {
+        "distance": 7826,
+        "duration": 860
+    },
+    "AMS-BKK": {
+        "distance": 9206,
+        "duration": 875
+    },
+    "AMS-DOH": {
+        "distance": 4920,
+        "duration": 735
+    },
+    "AMS-DXB": {
+        "distance": 5168,
+        "duration": 685
+    },
+    "AMS-FRA": {
+        "distance": 315,
+        "duration": 70
+    },
+    "AMS-GRO": {
+        "distance": 1167,
+        "duration": 120
+    },
+    "AMS-HKT": {
+        "distance": 9533,
+        "duration": 925
+    },
+    "AMS-IST": {
+        "distance": 2210,
+        "duration": 205
+    },
+    "AMS-LED": {
+        "distance": 1775,
+        "duration": 595
+    },
+    "AMS-LON": {
+        "distance": 290,
+        "duration": 60
+    },
+    "AMS-MOW": {
+        "distance": 2138,
+        "duration": 560
+    },
+    "AMS-PAR": {
+        "distance": 367,
+        "duration": 70
+    },
+    "AMS-SHJ": {
+        "distance": 5172,
+        "duration": 550
+    },
+    "AMS-TBS": {
+        "distance": 3219,
+        "duration": 280
+    },
+    "AMS-TYO": {
+        "distance": 9317,
+        "duration": 1030
+    },
+    "AYT-AER": {
+        "distance": 1063,
+        "duration": 120
+    },
+    "AYT-AMS": {
+        "distance": 2654,
+        "duration": 250
+    },
+    "AYT-BCN": {
+        "distance": 2514,
+        "duration": 405
+    },
+    "AYT-BEG": {
+        "distance": 1244,
+        "duration": 280
+    },
+    "AYT-BJS": {
+        "distance": 7164,
+        "duration": 1270
+    },
+    "AYT-BKK": {
+        "distance": 7299,
+        "duration": 1300
+    },
+    "AYT-DOH": {
+        "distance": 2353,
+        "duration": 820
+    },
+    "AYT-DXB": {
+        "distance": 2656,
+        "duration": 255
+    },
+    "AYT-FRA": {
+        "distance": 2298,
+        "duration": 230
+    },
+    "AYT-HKT": {
+        "distance": 7471,
+        "duration": 1125
+    },
+    "AYT-IST": {
+        "distance": 463,
+        "duration": 80
+    },
+    "AYT-LED": {
+        "distance": 2547,
+        "duration": 260
+    },
+    "AYT-LON": {
+        "distance": 2868,
+        "duration": 260
+    },
+    "AYT-MOW": {
+        "distance": 2127,
+        "duration": 265
+    },
+    "AYT-PAR": {
+        "distance": 2640,
+        "duration": 260
+    },
+    "AYT-SHJ": {
+        "distance": 2670,
+        "duration": 465
+    },
+    "AYT-TBS": {
+        "distance": 1326,
+        "duration": 125
+    },
+    "AYT-TYO": {
+        "distance": 9154,
+        "duration": 1060
+    },
+    "BCN-AER": {
+        "distance": 3092,
+        "duration": 700
+    },
+    "BCN-AMS": {
+        "distance": 1240,
+        "duration": 135
+    },
+    "BCN-AYT": {
+        "distance": 2514,
+        "duration": 375
+    },
+    "BCN-BEG": {
+        "distance": 1528,
+        "duration": 155
+    },
+    "BCN-BJS": {
+        "distance": 8812,
+        "duration": 985
+    },
+    "BCN-BKK": {
+        "distance": 9712,
+        "duration": 1180
+    },
+    "BCN-DOH": {
+        "distance": 4857,
+        "duration": 1630
+    },
+    "BCN-DXB": {
+        "distance": 5170,
+        "duration": 685
+    },
+    "BCN-FRA": {
+        "distance": 1041,
+        "duration": 130
+    },
+    "BCN-HKT": {
+        "distance": 9928,
+        "duration": 1210
+    },
+    "BCN-IST": {
+        "distance": 2230,
+        "duration": 210
+    },
+    "BCN-LED": {
+        "distance": 2823,
+        "duration": 580
+    },
+    "BCN-LON": {
+        "distance": 1108,
+        "duration": 135
+    },
+    "BCN-MOW": {
+        "distance": 2997,
+        "duration": 550
+    },
+    "BCN-PAR": {
+        "distance": 825,
+        "duration": 110
+    },
+    "BCN-SHJ": {
+        "distance": 5184,
+        "duration": 535
+    },
+    "BCN-TBS": {
+        "distance": 3534,
+        "duration": 385
+    },
+    "BCN-TYO": {
+        "distance": 10448,
+        "duration": 1085
+    },
+    "BEG-AER": {
+        "distance": 1570,
+        "duration": 150
+    },
+    "BEG-AMS": {
+        "distance": 1409,
+        "duration": 140
+    },
+    "BEG-AYT": {
+        "distance": 1244,
+        "duration": 270
+    },
+    "BEG-BCN": {
+        "distance": 1528,
+        "duration": 160
+    },
+    "BEG-BJS": {
+        "distance": 7423,
+        "duration": 600
+    },
+    "BEG-BKK": {
+        "distance": 8162,
+        "duration": 740
+    },
+    "BEG-DOH": {
+        "distance": 3543,
+        "duration": 485
+    },
+    "BEG-DXB": {
+        "distance": 3811,
+        "duration": 320
+    },
+    "BEG-FRA": {
+        "distance": 1055,
+        "duration": 120
+    },
+    "BEG-HKT": {
+        "distance": 8427,
+        "duration": 775
+    },
+    "BEG-IST": {
+        "distance": 813,
+        "duration": 100
+    },
+    "BEG-LED": {
+        "distance": 1795,
+        "duration": 430
+    },
+    "BEG-LON": {
+        "distance": 1668,
+        "duration": 160
+    },
+    "BEG-MOW": {
+        "distance": 1693,
+        "duration": 420
+    },
+    "BEG-PAR": {
+        "distance": 1421,
+        "duration": 160
+    },
+    "BEG-SHJ": {
+        "distance": 3822,
+        "duration": 465
+    },
+    "BEG-TBS": {
+        "distance": 2018,
+        "duration": 175
+    },
+    "BEG-TYO": {
+        "distance": 9217,
+        "duration": 1035
+    },
+    "BJS-AER": {
+        "distance": 6134,
+        "duration": 1095
+    },
+    "BJS-AMS": {
+        "distance": 7826,
+        "duration": 970
+    },
+    "BJS-AYT": {
+        "distance": 7164,
+        "duration": 765
+    },
+    "BJS-BCN": {
+        "distance": 8812,
+        "duration": 1080
+    },
+    "BJS-BEG": {
+        "distance": 7423,
+        "duration": 830
+    },
+    "BJS-BKK": {
+        "distance": 3315,
+        "duration": 305
+    },
+    "BJS-DOH": {
+        "distance": 6166,
+        "duration": 1095
+    },
+    "BJS-DXB": {
+        "distance": 5846,
+        "duration": 490
+    },
+    "BJS-FRA": {
+        "distance": 7786,
+        "duration": 970
+    },
+    "BJS-HKT": {
+        "distance": 3991,
+        "duration": 360
+    },
+    "BJS-IST": {
+        "distance": 7071,
+        "duration": 805
+    },
+    "BJS-LED": {
+        "distance": 6053,
+        "duration": 870
+    },
+    "BJS-LON": {
+        "distance": 8084,
+        "duration": 980
+    },
+    "BJS-MOW": {
+        "distance": 5785,
+        "duration": 500
+    },
+    "BJS-PAR": {
+        "distance": 8177,
+        "duration": 940
+    },
+    "BJS-SHJ": {
+        "distance": 5827,
+        "duration": 1595
+    },
+    "BJS-TBS": {
+        "distance": 5841,
+        "duration": 680
+    },
+    "BJS-TYO": {
+        "distance": 2134,
+        "duration": 225
+    },
+    "BKK-AER": {
+        "distance": 6593,
+        "duration": 685
+    },
+    "BKK-AMS": {
+        "distance": 9206,
+        "duration": 1050
+    },
+    "BKK-AYT": {
+        "distance": 7326,
+        "duration": 1055
+    },
+    "BKK-BCN": {
+        "distance": 9712,
+        "duration": 870
+    },
+    "BKK-BEG": {
+        "distance": 8190,
+        "duration": 1075
+    },
+    "BKK-BJS": {
+        "distance": 3315,
+        "duration": 300
+    },
+    "BKK-DOH": {
+        "distance": 5284,
+        "duration": 555
+    },
+    "BKK-DXB": {
+        "distance": 4880,
+        "duration": 395
+    },
+    "BKK-FRA": {
+        "distance": 8998,
+        "duration": 840
+    },
+    "BKK-HKT": {
+        "distance": 675,
+        "duration": 80
+    },
+    "BKK-IST": {
+        "distance": 7436,
+        "duration": 760
+    },
+    "BKK-LED": {
+        "distance": 7576,
+        "duration": 825
+    },
+    "BKK-LON": {
+        "distance": 9567,
+        "duration": 930
+    },
+    "BKK-MOW": {
+        "distance": 7058,
+        "duration": 610
+    },
+    "BKK-PAR": {
+        "distance": 9446,
+        "duration": 885
+    },
+    "BKK-SHJ": {
+        "distance": 4888,
+        "duration": 425
+    },
+    "BKK-TBS": {
+        "distance": 6151,
+        "duration": 750
+    },
+    "BKK-TYO": {
+        "distance": 4644,
+        "duration": 360
+    },
+    "DOH-AER": {
+        "distance": 2280,
+        "duration": 385
+    },
+    "DOH-AMS": {
+        "distance": 4920,
+        "duration": 560
+    },
+    "DOH-AYT": {
+        "distance": 2353,
+        "duration": 975
+    },
+    "DOH-BCN": {
+        "distance": 4857,
+        "duration": 700
+    },
+    "DOH-BEG": {
+        "distance": 3543,
+        "duration": 610
+    },
+    "DOH-BJS": {
+        "distance": 6166,
+        "duration": 1355
+    },
+    "DOH-BKK": {
+        "distance": 5284,
+        "duration": 545
+    },
+    "DOH-DXB": {
+        "distance": 381,
+        "duration": 255
+    },
+    "DOH-HKT": {
+        "distance": 5298,
+        "duration": 910
+    },
+    "DOH-IST": {
+        "distance": 2691,
+        "duration": 260
+    },
+    "DOH-LED": {
+        "distance": 4175,
+        "duration": 595
+    },
+    "DOH-LON": {
+        "distance": 5200,
+        "duration": 755
+    },
+    "DOH-MOW": {
+        "distance": 3531,
+        "duration": 480
+    },
+    "DOH-PAR": {
+        "distance": 4964,
+        "duration": 585
+    },
+    "DOH-SHJ": {
+        "distance": 398,
+        "duration": 65
+    },
+    "DOH-TBS": {
+        "distance": 1922,
+        "duration": 650
+    },
+    "DOH-TYO": {
+        "distance": 8301,
+        "duration": 775
+    },
+    "DXB-AER": {
+        "distance": 2456,
+        "duration": 230
+    },
+    "DXB-AMS": {
+        "distance": 5168,
+        "duration": 615
+    },
+    "DXB-AYT": {
+        "distance": 2661,
+        "duration": 280
+    },
+    "DXB-BCN": {
+        "distance": 5175,
+        "duration": 625
+    },
+    "DXB-BEG": {
+        "distance": 3815,
+        "duration": 810
+    },
+    "DXB-BJS": {
+        "distance": 5846,
+        "duration": 455
+    },
+    "DXB-BKK": {
+        "distance": 4904,
+        "duration": 655
+    },
+    "DXB-DOH": {
+        "distance": 381,
+        "duration": 205
+    },
+    "DXB-FRA": {
+        "distance": 4838,
+        "duration": 605
+    },
+    "DXB-HKT": {
+        "distance": 4927,
+        "duration": 540
+    },
+    "DXB-IST": {
+        "distance": 2967,
+        "duration": 285
+    },
+    "DXB-LED": {
+        "distance": 4296,
+        "duration": 375
+    },
+    "DXB-LON": {
+        "distance": 5456,
+        "duration": 620
+    },
+    "DXB-MOW": {
+        "distance": 3642,
+        "duration": 320
+    },
+    "DXB-PAR": {
+        "distance": 5236,
+        "duration": 620
+    },
+    "DXB-TBS": {
+        "distance": 2061,
+        "duration": 205
+    },
+    "DXB-TYO": {
+        "distance": 7979,
+        "duration": 830
+    },
+    "FRA-AER": {
+        "distance": 2479,
+        "duration": 470
+    },
+    "FRA-AMS": {
+        "distance": 315,
+        "duration": 70
+    },
+    "FRA-AYT": {
+        "distance": 2298,
+        "duration": 210
+    },
+    "FRA-BCN": {
+        "distance": 1041,
+        "duration": 120
+    },
+    "FRA-BEG": {
+        "distance": 1055,
+        "duration": 120
+    },
+    "FRA-BJS": {
+        "distance": 7786,
+        "duration": 570
+    },
+    "FRA-BKK": {
+        "distance": 8998,
+        "duration": 880
+    },
+    "FRA-DOH": {
+        "distance": 4585,
+        "duration": 1590
+    },
+    "FRA-DXB": {
+        "distance": 4838,
+        "duration": 630
+    },
+    "FRA-GRO": {
+        "distance": 959,
+        "duration": 110
+    },
+    "FRA-HKT": {
+        "distance": 9298,
+        "duration": 875
+    },
+    "FRA-IST": {
+        "distance": 1863,
+        "duration": 185
+    },
+    "FRA-LED": {
+        "distance": 1748,
+        "duration": 585
+    },
+    "FRA-LON": {
+        "distance": 535,
+        "duration": 80
+    },
+    "FRA-MOW": {
+        "distance": 2009,
+        "duration": 560
+    },
+    "FRA-PAR": {
+        "distance": 355,
+        "duration": 75
+    },
+    "FRA-SHJ": {
+        "distance": 4848,
+        "duration": 640
+    },
+    "FRA-TBS": {
+        "distance": 2933,
+        "duration": 385
+    },
+    "FRA-TYO": {
+        "distance": 9363,
+        "duration": 910
+    },
+    "GRO-AMS": {
+        "distance": 1167,
+        "duration": 130
+    },
+    "GRO-FRA": {
+        "distance": 959,
+        "duration": 115
+    },
+    "HKT-AER": {
+        "distance": 6861,
+        "duration": 705
+    },
+    "HKT-AMS": {
+        "distance": 9533,
+        "duration": 885
+    },
+    "HKT-AYT": {
+        "distance": 7471,
+        "duration": 1210
+    },
+    "HKT-BCN": {
+        "distance": 9928,
+        "duration": 1130
+    },
+    "HKT-BEG": {
+        "distance": 8427,
+        "duration": 1310
+    },
+    "HKT-BJS": {
+        "distance": 3991,
+        "duration": 325
+    },
+    "HKT-BKK": {
+        "distance": 675,
+        "duration": 80
+    },
+    "HKT-DOH": {
+        "distance": 5298,
+        "duration": 1975
+    },
+    "HKT-DXB": {
+        "distance": 4927,
+        "duration": 565
+    },
+    "HKT-FRA": {
+        "distance": 9298,
+        "duration": 875
+    },
+    "HKT-IST": {
+        "distance": 7657,
+        "duration": 750
+    },
+    "HKT-LED": {
+        "distance": 8009,
+        "duration": 650
+    },
+    "HKT-LON": {
+        "distance": 9902,
+        "duration": 980
+    },
+    "HKT-MOW": {
+        "distance": 7429,
+        "duration": 605
+    },
+    "HKT-PAR": {
+        "distance": 9742,
+        "duration": 995
+    },
+    "HKT-SHJ": {
+        "distance": 4913,
+        "duration": 390
+    },
+    "HKT-TBS": {
+        "distance": 6409,
+        "duration": 655
+    },
+    "HKT-TYO": {
+        "distance": 5255,
+        "duration": 595
+    },
+    "IST-AER": {
+        "distance": 919,
+        "duration": 95
+    },
+    "IST-AMS": {
+        "distance": 2210,
+        "duration": 205
+    },
+    "IST-AYT": {
+        "distance": 463,
+        "duration": 70
+    },
+    "IST-BCN": {
+        "distance": 2230,
+        "duration": 220
+    },
+    "IST-BEG": {
+        "distance": 813,
+        "duration": 100
+    },
+    "IST-BJS": {
+        "distance": 7071,
+        "duration": 790
+    },
+    "IST-BKK": {
+        "distance": 7463,
+        "duration": 755
+    },
+    "IST-DOH": {
+        "distance": 2691,
+        "duration": 245
+    },
+    "IST-DXB": {
+        "distance": 2967,
+        "duration": 270
+    },
+    "IST-FRA": {
+        "distance": 1863,
+        "duration": 185
+    },
+    "IST-HKT": {
+        "distance": 7657,
+        "duration": 735
+    },
+    "IST-LED": {
+        "distance": 2096,
+        "duration": 225
+    },
+    "IST-LON": {
+        "distance": 2479,
+        "duration": 240
+    },
+    "IST-MOW": {
+        "distance": 1735,
+        "duration": 220
+    },
+    "IST-PAR": {
+        "distance": 2234,
+        "duration": 225
+    },
+    "IST-SHJ": {
+        "distance": 2974,
+        "duration": 255
+    },
+    "IST-TBS": {
+        "distance": 1308,
+        "duration": 130
+    },
+    "IST-TYO": {
+        "distance": 8968,
+        "duration": 900
+    },
+    "LED-AER": {
+        "distance": 1931,
+        "duration": 260
+    },
+    "LED-AMS": {
+        "distance": 1775,
+        "duration": 550
+    },
+    "LED-AYT": {
+        "distance": 2547,
+        "duration": 255
+    },
+    "LED-BCN": {
+        "distance": 2823,
+        "duration": 600
+    },
+    "LED-BEG": {
+        "distance": 1795,
+        "duration": 460
+    },
+    "LED-BJS": {
+        "distance": 6053,
+        "duration": 805
+    },
+    "LED-BKK": {
+        "distance": 7576,
+        "duration": 800
+    },
+    "LED-DOH": {
+        "distance": 4175,
+        "duration": 565
+    },
+    "LED-DXB": {
+        "distance": 4296,
+        "duration": 390
+    },
+    "LED-FRA": {
+        "distance": 1748,
+        "duration": 595
+    },
+    "LED-HKT": {
+        "distance": 8009,
+        "duration": 645
+    },
+    "LED-IST": {
+        "distance": 2096,
+        "duration": 230
+    },
+    "LED-LON": {
+        "distance": 2048,
+        "duration": 580
+    },
+    "LED-MOW": {
+        "distance": 598,
+        "duration": 85
+    },
+    "LED-PAR": {
+        "distance": 2123,
+        "duration": 610
+    },
+    "LED-SHJ": {
+        "distance": 4297,
+        "duration": 700
+    },
+    "LED-TBS": {
+        "distance": 2252,
+        "duration": 215
+    },
+    "LED-TYO": {
+        "distance": 7625,
+        "duration": 865
+    },
+    "LON-AER": {
+        "distance": 3041,
+        "duration": 540
+    },
+    "LON-AMS": {
+        "distance": 290,
+        "duration": 65
+    },
+    "LON-AYT": {
+        "distance": 2868,
+        "duration": 150
+    },
+    "LON-BCN": {
+        "distance": 1108,
+        "duration": 120
+    },
+    "LON-BEG": {
+        "distance": 1668,
+        "duration": 165
+    },
+    "LON-BJS": {
+        "distance": 8084,
+        "duration": 610
+    },
+    "LON-BKK": {
+        "distance": 9515,
+        "duration": 685
+    },
+    "LON-DOH": {
+        "distance": 5200,
+        "duration": 630
+    },
+    "LON-DXB": {
+        "distance": 5452,
+        "duration": 575
+    },
+    "LON-FRA": {
+        "distance": 535,
+        "duration": 80
+    },
+    "LON-HKT": {
+        "distance": 9821,
+        "duration": 920
+    },
+    "LON-IST": {
+        "distance": 2483,
+        "duration": 225
+    },
+    "LON-LED": {
+        "distance": 2045,
+        "duration": 625
+    },
+    "LON-MOW": {
+        "distance": 2426,
+        "duration": 570
+    },
+    "LON-PAR": {
+        "distance": 299,
+        "duration": 70
+    },
+    "LON-SHJ": {
+        "distance": 5461,
+        "duration": 605
+    },
+    "LON-TBS": {
+        "distance": 3493,
+        "duration": 490
+    },
+    "LON-TYO": {
+        "distance": 9524,
+        "duration": 1025
+    },
+    "MOW-AER": {
+        "distance": 1338,
+        "duration": 205
+    },
+    "MOW-AMS": {
+        "distance": 2138,
+        "duration": 615
+    },
+    "MOW-AYT": {
+        "distance": 2127,
+        "duration": 255
+    },
+    "MOW-BCN": {
+        "distance": 2997,
+        "duration": 600
+    },
+    "MOW-BEG": {
+        "distance": 1693,
+        "duration": 485
+    },
+    "MOW-BJS": {
+        "distance": 5785,
+        "duration": 440
+    },
+    "MOW-BKK": {
+        "distance": 7029,
+        "duration": 810
+    },
+    "MOW-DOH": {
+        "distance": 3531,
+        "duration": 490
+    },
+    "MOW-DXB": {
+        "distance": 3642,
+        "duration": 330
+    },
+    "MOW-FRA": {
+        "distance": 2009,
+        "duration": 565
+    },
+    "MOW-HKT": {
+        "distance": 7429,
+        "duration": 775
+    },
+    "MOW-IST": {
+        "distance": 1735,
+        "duration": 225
+    },
+    "MOW-LED": {
+        "distance": 598,
+        "duration": 80
+    },
+    "MOW-LON": {
+        "distance": 2426,
+        "duration": 580
+    },
+    "MOW-PAR": {
+        "distance": 2443,
+        "duration": 665
+    },
+    "MOW-SHJ": {
+        "distance": 3640,
+        "duration": 340
+    },
+    "MOW-TBS": {
+        "distance": 1611,
+        "duration": 190
+    },
+    "MOW-TYO": {
+        "distance": 7506,
+        "duration": 845
+    },
+    "PAR-AER": {
+        "distance": 2909,
+        "duration": 545
+    },
+    "PAR-AMS": {
+        "distance": 367,
+        "duration": 70
+    },
+    "PAR-AYT": {
+        "distance": 2640,
+        "duration": 240
+    },
+    "PAR-BCN": {
+        "distance": 825,
+        "duration": 100
+    },
+    "PAR-BEG": {
+        "distance": 1421,
+        "duration": 145
+    },
+    "PAR-BJS": {
+        "distance": 8177,
+        "duration": 925
+    },
+    "PAR-BKK": {
+        "distance": 9446,
+        "duration": 800
+    },
+    "PAR-DOH": {
+        "distance": 4964,
+        "duration": 550
+    },
+    "PAR-DXB": {
+        "distance": 5232,
+        "duration": 670
+    },
+    "PAR-FRA": {
+        "distance": 355,
+        "duration": 90
+    },
+    "PAR-HKT": {
+        "distance": 9742,
+        "duration": 1235
+    },
+    "PAR-IST": {
+        "distance": 2234,
+        "duration": 210
+    },
+    "PAR-LED": {
+        "distance": 2123,
+        "duration": 615
+    },
+    "PAR-LON": {
+        "distance": 255,
+        "duration": 65
+    },
+    "PAR-MOW": {
+        "distance": 2443,
+        "duration": 595
+    },
+    "PAR-SHJ": {
+        "distance": 5252,
+        "duration": 655
+    },
+    "PAR-TBS": {
+        "distance": 3364,
+        "duration": 290
+    },
+    "PAR-TYO": {
+        "distance": 9684,
+        "duration": 985
+    },
+    "SHJ-AER": {
+        "distance": 2461,
+        "duration": 225
+    },
+    "SHJ-AMS": {
+        "distance": 5172,
+        "duration": 720
+    },
+    "SHJ-AYT": {
+        "distance": 2670,
+        "duration": 450
+    },
+    "SHJ-BCN": {
+        "distance": 5184,
+        "duration": 1090
+    },
+    "SHJ-BEG": {
+        "distance": 3822,
+        "duration": 475
+    },
+    "SHJ-BJS": {
+        "distance": 5827,
+        "duration": 890
+    },
+    "SHJ-BKK": {
+        "distance": 4888,
+        "duration": 585
+    },
+    "SHJ-DOH": {
+        "distance": 398,
+        "duration": 65
+    },
+    "SHJ-FRA": {
+        "distance": 4848,
+        "duration": 650
+    },
+    "SHJ-HKT": {
+        "distance": 4913,
+        "duration": 400
+    },
+    "SHJ-IST": {
+        "distance": 2974,
+        "duration": 280
+    },
+    "SHJ-LED": {
+        "distance": 4297,
+        "duration": 605
+    },
+    "SHJ-LON": {
+        "distance": 5461,
+        "duration": 705
+    },
+    "SHJ-MOW": {
+        "distance": 3640,
+        "duration": 345
+    },
+    "SHJ-PAR": {
+        "distance": 5242,
+        "duration": 620
+    },
+    "SHJ-TBS": {
+        "distance": 2061,
+        "duration": 195
+    },
+    "SHJ-TYO": {
+        "distance": 7961,
+        "duration": 1560
+    },
+    "TBS-AER": {
+        "distance": 455,
+        "duration": 70
+    },
+    "TBS-AMS": {
+        "distance": 3219,
+        "duration": 305
+    },
+    "TBS-AYT": {
+        "distance": 1326,
+        "duration": 140
+    },
+    "TBS-BCN": {
+        "distance": 3534,
+        "duration": 445
+    },
+    "TBS-BEG": {
+        "distance": 2018,
+        "duration": 200
+    },
+    "TBS-BJS": {
+        "distance": 5841,
+        "duration": 575
+    },
+    "TBS-BKK": {
+        "distance": 6151,
+        "duration": 680
+    },
+    "TBS-DOH": {
+        "distance": 1922,
+        "duration": 480
+    },
+    "TBS-DXB": {
+        "distance": 2061,
+        "duration": 190
+    },
+    "TBS-FRA": {
+        "distance": 2933,
+        "duration": 430
+    },
+    "TBS-HKT": {
+        "distance": 6409,
+        "duration": 805
+    },
+    "TBS-IST": {
+        "distance": 1308,
+        "duration": 145
+    },
+    "TBS-LED": {
+        "distance": 2252,
+        "duration": 225
+    },
+    "TBS-LON": {
+        "distance": 3493,
+        "duration": 315
+    },
+    "TBS-MOW": {
+        "distance": 1611,
+        "duration": 180
+    },
+    "TBS-PAR": {
+        "distance": 3364,
+        "duration": 315
+    },
+    "TBS-SHJ": {
+        "distance": 2061,
+        "duration": 185
+    },
+    "TBS-TYO": {
+        "distance": 7855,
+        "duration": 920
+    },
+    "TYO-AER": {
+        "distance": 8097,
+        "duration": 1555
+    },
+    "TYO-AMS": {
+        "distance": 9317,
+        "duration": 1245
+    },
+    "TYO-AYT": {
+        "distance": 9154,
+        "duration": 1800
+    },
+    "TYO-BCN": {
+        "distance": 10448,
+        "duration": 1235
+    },
+    "TYO-BEG": {
+        "distance": 9217,
+        "duration": 1655
+    },
+    "TYO-BJS": {
+        "distance": 2134,
+        "duration": 260
+    },
+    "TYO-BKK": {
+        "distance": 4644,
+        "duration": 400
+    },
+    "TYO-DOH": {
+        "distance": 8301,
+        "duration": 905
+    },
+    "TYO-DXB": {
+        "distance": 7979,
+        "duration": 1440
+    },
+    "TYO-FRA": {
+        "distance": 9363,
+        "duration": 1390
+    },
+    "TYO-HKT": {
+        "distance": 5255,
+        "duration": 580
+    },
+    "TYO-IST": {
+        "distance": 8968,
+        "duration": 1170
+    },
+    "TYO-LED": {
+        "distance": 7625,
+        "duration": 975
+    },
+    "TYO-LON": {
+        "distance": 9590,
+        "duration": 1260
+    },
+    "TYO-MOW": {
+        "distance": 7506,
+        "duration": 975
+    },
+    "TYO-PAR": {
+        "distance": 9708,
+        "duration": 1130
+    },
+    "TYO-SHJ": {
+        "distance": 7961,
+        "duration": 1075
+    },
+    "TYO-TBS": {
+        "distance": 7855,
+        "duration": 1160
+    }
+}
